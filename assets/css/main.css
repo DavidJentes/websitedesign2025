@@ -1,6 +1,9 @@
 ---
 ---
 
+@google-font "Libre Baskerville" 400 display=swap;
+@google-font Bevan 400 display=swap;
+@google-font "M PLUS\ 2" 400 display=swap;
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

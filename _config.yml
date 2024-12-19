@@ -1,9 +1,8 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Website Design 2025" # the name of your site, e.g. ACME Corp.
 
 plugins:
-  - jekyll-postcss
+  - jekyll-postcss-v2
 
-postcss:
-  cache: false
+permalink: /posts/:title/index:output_ext 
