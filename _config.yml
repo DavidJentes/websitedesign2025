@@ -4,5 +4,6 @@ title: "Website Design 2025" # the name of your site, e.g. ACME Corp.
 
 plugins:
   - jekyll-postcss-v2
+  - jekyll-feed
 
-permalink: /posts/:title/index:output_ext 
+permalink: /blog/:title/index:output_ext 
