@@ -1,12 +1,13 @@
 module.exports = {
     mode: 'jit',
     content: [
-        './_drafts/**/*.html',
+        './_drafts/**/*.{md,html}',
         './_includes/**/*.html',
         './_layouts/**/*.html',
-        './_posts/*.md',
-        './*.md',
-        './*.html',
+        './_posts/*.{md,html}',
+        './*.{md,html}',
+        './blog/index.html',
+        './about/index.html',
     ],
     theme: {
         extend: {
