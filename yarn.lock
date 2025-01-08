@@ -1980,7 +1980,6 @@ __metadata:
   dependencies:
     autoprefixer: "npm:^10.4.20"
     cssnano: "npm:^7.0.6"
-    postcss: "npm:^8.4.47"
     postcss-cli: "npm:^11.0.0"
     postcss-google-font: "npm:^1.1.0"
     tailwindcss: "npm:^3.4.14"
