@@ -7,7 +7,7 @@ layout: noindent
     {% for post in site.posts %}
         <li class="my-5">
             <a href="{{ post.url }}" class="font-mplus2 text-3xl underline decoration-slate-600">{{post.title}}</a>
-            <div class="*:indent-8">
+            <div class="indent-8 *:indent-8">
                 {{post.excerpt | truncatewords: 50 }}
             </div>
             <span class="font-baskerville"></span>
