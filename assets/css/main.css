@@ -8,6 +8,6 @@
 @tailwind components;
 @tailwind utilities;
 
-a {
+main a {
     @apply underline text-livingstone-300;
 }
