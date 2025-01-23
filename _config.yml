@@ -7,3 +7,5 @@ plugins:
   - jekyll-feed
 
 permalink: /blog/:title/index:output_ext 
+
+exclude: ["package.json", "postcss.config.js", "tailwind.config.js", "yarn.lock"]
