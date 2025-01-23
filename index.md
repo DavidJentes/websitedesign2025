@@ -10,3 +10,6 @@ Dr. Livingstone has a very inspiring story, especially for those interested in b
 Dr. Livingstone had a very eventful life, from [growing up poor and working in a cotton mill]({% post_url 2025-01-22-the-birth-of-a-hero %}) to having a journalist track him down in the jungle. These events make a very enjoyable story, whether you read it from start to finish or just read parts of it. Even the most boring parts of his life can be made into a great story!
 
 His story can be read in the form of [blog posts on this website]({{ "blog" | relative_url }}). I pray that God will use his story to inspire and encourage you.
+
+![Picture of David Livingstone]({{ "assets/img/livingstone.jpg" | relative_url }})
+{: .inline-block .*:w-full .*:sm:w-[50%] .*:m-auto .text-center .*:text-center  .*:rounded-xl}
