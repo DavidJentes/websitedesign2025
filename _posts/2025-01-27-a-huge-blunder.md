@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Explorer's Launch
+title: A Huge Blunder
 author: David Jentes
 excerpt: ...he was asked to preach the evening service at a church with a prepared sermon that he had memorized. When he was at the pulpit, he greeted the congregation, then forgot how the sermon began!
 ---
