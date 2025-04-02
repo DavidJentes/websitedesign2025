@@ -1,12 +1,18 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css2?family=Bevan&family=Libre+Baskerville&family=M+PLUS+2&display=swap');
+@import "tailwindcss";
 
-@google-font "Libre Baskerville" 400 display=swap;
-@google-font Bevan 400 display=swap;
-@google-font "M PLUS\ 2" 400 display=swap;
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@theme {
+    --font-baskerville: "Libre Baskerville";
+    --font-bevan: "Bevan";
+    --font-mplus2: "M PLUS 2";
+    --color-livingstone-100: #8d9bac;
+    --color-livingstone-200: #7f9cbb;
+    --color-livingstone-300: #6e9ecb;
+    --color-livingstone-400: #579fdb;
+    --color-livingstone-500: #2da1eb;
+}
 
 main a {
     @apply underline text-livingstone-300;
