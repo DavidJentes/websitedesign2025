@@ -4,7 +4,6 @@ title: "David Livingstone" # the name of your site, e.g. ACME Corp.
 
 plugins:
   - jekyll-postcss-v2
-  - jekyll-feed
 
 permalink: /blog/:title/index:output_ext 
 
