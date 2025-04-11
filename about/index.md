@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 !["An image of David Livingstone and a lion, with Livingstone threatening to shoot the lion. A title below the image reads LIVINGSTONE ATTACKED BY THE LION."]({{ "assets/img/lion.jpg" | relative_url }})
-{: .inline-block .*:w-full .*:sm:w-[50%] .*:m-auto .text-center .*:text-center  .*:rounded-xl}
+{: .inline-block .*:w-full .*:sm:w-[50%] .*:m-auto .text-center .*:text-center .*:rounded-3xl }
 
 As quoted from the 1965 Encyclopedia Britannica:
 

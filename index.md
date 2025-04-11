@@ -12,4 +12,4 @@ Dr. Livingstone had a very eventful life, from [growing up poor and working in a
 His story can be read in the form of [posts on this website]({{ "posts" | relative_url }}). I pray that God will use his story to inspire and encourage you.
 
 ![Picture of David Livingstone]({{ "assets/img/livingstone.jpg" | relative_url }})
-{: .inline-block .*:w-full .*:sm:w-[50%] .*:m-auto .text-center .*:text-center  .*:rounded-xl}
+{: .inline-block .*:w-full .*:sm:w-[50%] .*:m-auto .text-center .*:text-center .*:rounded-3xl }
