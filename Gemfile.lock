@@ -54,8 +54,6 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-feed (0.17.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-postcss-v2 (1.0.2)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
@@ -111,7 +109,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-feed
   jekyll-postcss-v2
   json
   webrick
