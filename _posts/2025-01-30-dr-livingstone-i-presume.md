@@ -2,9 +2,12 @@
 layout: post
 title: Dr. Livingstone, I presume?
 author: David Jentes
-excerpt: A freed slave named Susi, which helped him get to Ujiji, saw Stanley. When Stanley first met Livingstone, he said, “Dr. Livingstone, I presume?
+excerpt: A freed slave named Susi, which helped him get to Ujiji, saw Stanley. When Stanley first met Livingstone, he said, “Dr. Livingstone, I presume?"
 date: 2025-01-30 02:00:00
 ---
+
+![Henry Morton Stanley meeting Livingstone]({{ "assets/img/stanley.jpg" | relative_url }})
+{: .*:w-full .*:sm:max-w-[70%] .*:m-auto .text-center .*:text-center .*:rounded-3xl }
 
 Henry Morton Stanley was born in 1841 in Wales. He did various different things throughout his life. He spent most of his youth in a workhouse for orphans, then sailed as a cabin boy on a ship to New Orleans at the age of 17. He joined the Confederate Army during the American Civil War, and was soon captured. He joined the Union Army to get out of prison, but the discharged him because of poor health. Soon after, he joined the Union Navy, but deserted a year later and became a newspaper reporter.
 

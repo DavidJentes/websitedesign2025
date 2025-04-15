@@ -11,4 +11,7 @@ As quoted from the 1965 Encyclopedia Britannica:
 
 This site serves as a place where Dr. Livingstone's story can be shared. You can view his story in [posts]({{"/posts" | relative_url}}) here.
 
-This site was built for the 2025 Cumberland Valley Regional Student Convention, with hopes of making it to the International Student Convention. Its source code is available on [David's GitLab](https://gitlab.daviddgtnt.xyz/DavidJentes/websitedesign2025).
+This site was built for the 2025 International Student Convention. Its source code is available on [David's GitLab](https://gitlab.daviddgtnt.xyz/DavidJentes/websitedesign2025).
+
+!["A map of Livingstone's travels throughout Africa."]({{ "assets/img/map.jpg" | relative_url }})
+{: .inline-block .*:w-full .*:m-auto .text-center .*:text-center .*:rounded-3xl }
