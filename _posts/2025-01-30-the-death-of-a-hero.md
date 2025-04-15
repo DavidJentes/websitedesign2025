@@ -3,7 +3,11 @@ layout: post
 title: The Death of a Hero
 author: David Jentes
 date: 2025-01-30 03:00:00
+excerpt: Livingstone waited in the trade center for five months until more supplies arrived from the coast. After the wait, he began his last journey, which was around the south shore of Lake Tanganyika. He crossed a river and headed south, but he got hopelessly lost. He got dysentery and hemorrhoids...
 ---
+
+![Livingstone on his last journey]({{ "assets/img/lastjourney.png" | relative_url }})
+{: .inline-block .*:w-full .*:sm:max-w-[70%] .*:m-auto .text-center .*:text-center .*:rounded-3xl }
 
 Livingstone waited in the trade center for five months until more supplies arrived from the coast. After the wait, he began his last journey, which was around the south shore of Lake Tanganyika. He crossed a river and headed south, but he got hopelessly lost. He got dysentery and hemorrhoids on March 31, 1873.
 
